@@ -40,9 +40,12 @@ Software Engineering</p>
 <td width="17%" align="center"><strong>Dart</strong><br /><sub>60%</sub></td>
 <td width="17%" align="center"><strong>Java</strong><br /><sub>30%</sub></td>
 <td width="17%" align="center"><strong>C++</strong><br /><sub>2%</sub></td>
-<td width="17%" align="center"><strong>CMake</strong><br /><sub>2%</sub></td>
+<td width="17%" align="center"><strong>C#</strong><br /><sub>2%</sub></td>
 <td width="17%" align="center"><strong>JavaScript</strong><br /><sub>2%</sub></td>
 <td width="17%" align="center"><strong>HTML</strong><br /><sub>1%</sub></td>
+<td width="17%" align="center"><strong>css</strong><br /><sub>1%</sub></td>
+<td width="17%" align="center"><strong>R</strong><br /><sub>1%</sub></td>
+<td width="17%" align="center"><strong>Python</strong><br /><sub>1%</sub></td>
 </tr>
 </table>
 
