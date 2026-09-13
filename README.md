@@ -14,7 +14,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>Dart</code> · <code>Java</code> · <code>C++</code></p></td>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>Dart</code> · <code>Java</code> · <code>C++</code>· <code>C#</code> · <code>Python</code>· <code>HTML</code> · <code>css</code>· <code>JavaScript</code> · <code>R</code</p></td>
 <td width="33%" valign="top"><h3>Proof</h3><p>6 public repositories · 1 stars</p></td>
 <td width="33%" valign="top"><h3>Contribution</h3><p>132 contributions · 32 active days</p></td>
 </tr>
